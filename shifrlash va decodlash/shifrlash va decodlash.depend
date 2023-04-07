@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680457068 source:d:\dasturlash kurslari\tenx bootcamp\tenx c++\shifrlash va decodlash\main.cpp
+	<iostream>
+	<time.h>
+

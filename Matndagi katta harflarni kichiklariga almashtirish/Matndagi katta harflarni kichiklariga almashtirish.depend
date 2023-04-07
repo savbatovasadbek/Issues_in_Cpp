@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679940986 source:d:\dasturlash kurslari\tenx bootcamp\tenx c++\matndagi katta harflarni kichiklariga almashtirish\main.cpp
+	<iostream>
+	<ctype.h>
+

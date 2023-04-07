@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680783216 source:d:\dasturlash kurslari\tenx bootcamp\tenx c++\berilgan so'z tarjimasi array 2 o'lchovli\main.cpp
+	<iostream>
+	<time.h>
+	<ctype.h>
+

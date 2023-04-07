@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679234122 source:d:\dasturlash kurslari\tenx bootcamp\tenx c++\numbers_in_words\main.cpp
+	<iostream>
+	<math.h>
+
