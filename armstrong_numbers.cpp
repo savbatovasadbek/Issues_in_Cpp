@@ -31,6 +31,8 @@ int main()
             if( func(i))
             cout<< func(i) << "  ";
         }
+
+        
 // ASADBEK'S  SOLUTION
 //    int n;
 //    cout << "Enter number: "; cin >> n;
