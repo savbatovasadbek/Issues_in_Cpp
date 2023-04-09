@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1680263765 source:d:\dasturlash kurslari\tenx bootcamp\tenx c++\text rand  time.h srand null\main.cpp
-	<iostream>
-	<time.h>
-

@@ -1,14 +1,20 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
-#include <string>
 
 using namespace std;
 
+int foo(int num) {
+    if (num <= 1) {
+        return num;
+    } else {
+        return (foo(num - 1) + foo (num - 2));
+    }
+}
+
 int main() {
 
-    string num1 = "123", num2 = "2";
-
-    cout << stoi(num1) * stoi(num2);
+    for(int i = 0; i < 10; i++) {
+        cout << foo(i) << "\t";
+    }
 
     return 0;
 }
